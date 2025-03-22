@@ -1,0 +1,25 @@
+# 1️⃣ Ignore Node.js dependencies (server & client)
+node_modules/
+
+# 2️⃣ Ignore React build files
+client/build/
+
+# 3️⃣ Ignore backend build files
+server/build/
+
+# 4️⃣ Ignore environment files (sensitive API keys & credentials)
+.env
+client/.env
+server/.env
+
+# 5️⃣ Ignore system files
+.DS_Store
+Thumbs.db
+
+# 6️⃣ Ignore log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 7️⃣ Ignore large media files (optional)
+presentation video/
