@@ -1,6 +1,6 @@
 E-Commerce Project - README
 
--- Watch project presentaion video - which i uploaded on github ,download and watch
+-- Watch project presentaion video after download - which i uploaded on github if you dont wanna setup the project
 
 # Project Overview--
 -- This is a fully functional e-commerce application built using MongoDB, Node.js, Express, React, and Stripe Payment Integration. The project ensures stock validation and prevention of duplicate orders using MongoDB transactions (which require replication setup).
