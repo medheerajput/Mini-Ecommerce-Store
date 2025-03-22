@@ -1,5 +1,7 @@
 E-Commerce Project - README
 
+-- Watch project presentaion video - which i uploaded on github ,download and watch
+
 # Project Overview--
 -- This is a fully functional e-commerce application built using MongoDB, Node.js, Express, React, and Stripe Payment Integration. The project ensures stock validation and prevention of duplicate orders using MongoDB transactions (which require replication setup).
 
@@ -18,7 +20,7 @@ STRIPE_SECRET_KEY = sk_test_tR3PYbcVNZZ796tH88S4VQ2u
 
 
 2️⃣ Start the Project-
--- After installing dependencies, start both frontend and backend:
+- After installing dependencies, start both frontend and backend:
 # In the client folder
 npm start
 
