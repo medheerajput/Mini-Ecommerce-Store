@@ -25,7 +25,7 @@ npm start
 # In the server folder
 npm start
 
-If the server starts successfully, you should see this output:
+# If the server starts successfully, you should see this output:
 --Server running on port 5000
 --MongoDB Connected: localhost
 --Database seeded successfully!
